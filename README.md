@@ -1,10 +1,28 @@
 <h1 align="center">Hi 👋, I'm Kunal Khandale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuunnaal1012&label=Profile%20views&color=0e75b6&style=flat" alt="kuunnaal1012" /> </p>
+
+- 🔭 I’m currently working on [Amazon Clone Website](https://github.com/Kuunnaal1012/AmazonClone_website)
+
+- 🌱 I’m currently learning **React, and Backend Webdevelopment, along with Linux operating system.**
+
+- 🤝 I’m looking for help with [Amazon Clone Website](https://github.com/Kuunnaal1012/AmazonClone_website)
+
+- 👨‍💻 All of my projects are available at [https://github.com/Kuunnaal1012](https://github.com/Kuunnaal1012)
+
+- 💬 Ask me about **React, Frontend Web devlopment, Fundamentals of Cloud Commputing, Object Oriented Programming in CPP.**
+
 - 📫 How to reach me **kunalkhandale3132@gmail.com**
+
+- 📄 Know about my experiences [I have done a Virtual internship in frontend Development in IBM skillBuild.](I have done a Virtual internship in frontend Development in IBM skillBuild.)
+
+- ⚡ Fun fact **I am passinate Learner and wanted to lear more about my domain.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kunal-khandale-632436222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kunal-khandale-632436222/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/kunalkhandale311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/kunalkhandale311" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
