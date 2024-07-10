@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuunnaal1012&label=Profile%20views&color=0e75b6&style=flat" alt="kuunnaal1012" /> </p>
 
-- 🔭 I’m currently working on [Amazon Clone Website](https://github.com/Kuunnaal1012/AmazonClone_website)
-
 - 🌱 I’m currently learning **React, and Backend Webdevelopment, along with Linux operating system.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kuunnaal1012](https://github.com/Kuunnaal1012)
