@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React, and Backend Webdevelopment, along with Linux operating system.**
 
-- 🤝 I’m looking for help with [Amazon Clone Website](https://github.com/Kuunnaal1012/AmazonClone_website)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Kuunnaal1012](https://github.com/Kuunnaal1012)
 
 - 💬 Ask me about **React, Frontend Web devlopment, Fundamentals of Cloud Commputing, Object Oriented Programming in CPP.**
